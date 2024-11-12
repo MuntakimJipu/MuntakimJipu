@@ -1,6 +1,6 @@
 # Hi there, I'm Abdul Muntakim 👋
 
-**Lecturer | Researcher | Machine Learning Enthusiast**
+**Teacher | Researcher | Machine Learning Enthusiast**
 
 📍 **Dhaka, Bangladesh**  
 📧 **Email:** [basitmuntakim@gmail.com](mailto:basitmuntakim@gmail.com), [muntakim.cse@diu.edu.bd](mailto:muntakim.cse@diu.edu.bd)
